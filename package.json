@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "json-server": "^0.17.0"
+  },
+  "name": "fake-api-todosapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/congit27/fake-api-todosapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/congit27/fake-api-todosapp/issues"
+  },
+  "homepage": "https://github.com/congit27/fake-api-todosapp#readme",
+  "description": ""
+}
